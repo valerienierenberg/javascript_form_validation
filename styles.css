@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #9b59b6;
+    background-color: #8DAAC4;
     font-family: 'Open Sans', sans-serif;
     display: flex;
     align-items: center;
@@ -102,8 +102,8 @@ body {
 }
 
 .form button {
-    background-color: #8e44ad;
-    border: 2px solid #8e44ad;
+    background-color: #5c7e9c;
+    border: 2px solid #5c7e9c;
     border-radius: 4px;
     color: #fff;
     display: block;
