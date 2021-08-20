@@ -38,8 +38,6 @@ function checkInputs() {
 
     if(passwordValue === '') {
         setErrorFor(password, 'Password cannot be blank');
-    //} else if(password.Value.length < 8) {
-    //    setErrorFor(password, 'Password must be 8 or more characters');
     } else {
         setSuccessFor(password);
     }
